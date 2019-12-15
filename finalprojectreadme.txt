@@ -148,6 +148,7 @@ Updated levels to implement new objective and bricks, increase game length.
 Santa1.py (current)
 
 --EXECUTABLE BUILD--
-implemented build process and uploaded project to GitHub. Game can now be run
+
+Implemented build process and uploaded project to GitHub. Game can now be run
 from a build folder by running the executable file "Santa1.exe" 
 
