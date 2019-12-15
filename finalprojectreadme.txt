@@ -117,7 +117,6 @@ ExitBlock is now reserved for the final screen of the game, is now blue to
 reflect the user made it out of a dungeon and into the world
 
 ------------------------------------------------------------------------------
-bb5.py (current)
 
 --OPTIMIZATION--
 
@@ -144,4 +143,11 @@ Added brick platform
 
 --LEVELS--
 Updated levels to implement new objective and bricks, increase game length.
+
+-------------------------------------------------------------------------------
+Santa1.py (current)
+
+--EXECUTABLE BUILD--
+implemented build process and uploaded project to GitHub. Game can now be run
+from a build folder by running the executable file "Santa1.exe" 
 
