@@ -149,6 +149,7 @@ Santa1.py (current)
 
 --EXECUTABLE BUILD--
 
-Implemented build process and uploaded project to GitHub. Game can now be run
-from a build folder by running the executable file "Santa1.exe" 
+    Implemented build process and uploaded project to GitHub. Game can now be run
+from a build folder by running the executable file "Santa1.exe". Can download
+build folder as a zip file from https://github.com/RickPatneaude/SantaDungeonEscape
 
