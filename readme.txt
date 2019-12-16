@@ -19,10 +19,12 @@ you lose all of your lives, the game is over.
 Use either the arrow keys, or W,A,S,D to move Santa (W, UP, or SPACE will make 
 Santa jump). SHIFT will make Santa run. ESC quits to Windows.
 
-3. [HOW TO PLAY] In order to run -- a planned executable version may not be ready 
-at submission. If this is the case, the game's latest source code file (see below) 
-will need to be run using Python (latest version) with Pygame (latest version) installed. 
+3. [HOW TO PLAY] In order to run -- If you have a 64-bit Windows PC, the game can be run
+by downloading "Santa1.zip", extracting the contents to a folder of 
+your choice, and running "Santa1.exe". For Mac/Linux users, 
+The game's latest source code file (see below) will need to be run using Python (latest version) with Pygame (latest version) installed. 
 Please see https://www.pygame.org/wiki/GettingStarted for help installing Pygame.
+Functionality has not yet been tested on Mac or Linux.
 
 4. [Known issues]
 
@@ -43,12 +45,14 @@ is designed to avoid this. Will be corrected in a future update.
 
 -Spike Collision Detection-
 
-Spike collision detection needs refinement.
+Spike collision detection needs refinement. To be addressed in a future update.
 
  
 
 Release notes
-bb1.py - original source code, no updates
+
+---------------------------------------------------------------------------------
+bb1.py - original engine source code, no updates
 ---------------------------------------------------------------------------------
 bb2.py 
 - added additional key press functionality:
@@ -152,4 +156,5 @@ Santa1.py (current)
 from a build folder by running the executable file "Santa1.exe". Can download
 build folder as a zip file from https://github.com/RickPatneaude/SantaDungeonEscape
 
-Created desktop shortcut with custom icon
+Created Icon image so user can create shortcut and change icon. A future update
+will make the executable build with the appropriate icon.
