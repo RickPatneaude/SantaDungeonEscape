@@ -1,6 +1,5 @@
-RICK PATNEAUDE
-CS 112 FINAL PROJECT README
-12/11/2019
+Santa's Dungeon Escape™
+
 
 1. [ABOUT] Santa's Dungeon Escape™ - 2D platformer using Pygame and original source code
 by Anthony Biron as described and contributed by others on Stack Overflow
@@ -35,12 +34,12 @@ physics to make the game longer, more interesting, and challenging.
 
 Sounds lag sometimes; may not play again when recently played (i.e. jump sound
 won't play if player recently jumped). Running sound doesn't always play.
-Future updates will correct this.
+Will be corrected in a future update.
 
 -Music-
 
 Sometimes the starting song will play twice, even though the random song functionality
-is designed to avoid this. Future updates will correct this.
+is designed to avoid this. Will be corrected in a future update.
 
 -Spike Collision Detection-
 
@@ -153,3 +152,4 @@ Santa1.py (current)
 from a build folder by running the executable file "Santa1.exe". Can download
 build folder as a zip file from https://github.com/RickPatneaude/SantaDungeonEscape
 
+Created desktop shortcut with custom icon
