@@ -13,20 +13,24 @@ morning. In the distance, the sound of a man in his thirties doing terrible
 acoustic renditions of timeless rock classics reverberates throughout the dungeon-
 what the heck is he doing down here with Santa?!?! With only his wits about him, 
 and his sack of presents, Santa must find the exit and be on his way. BUT BEWARE!
-Spikes are layed out before Santa around every corner. Santa has 3 lives. if
-you lose all of your lives, the game is over.  
+Spikes are layed out before Santa around every corner. 
 
-Use either the arrow keys, or W,A,S,D to move Santa (W, UP, or SPACE will make 
-Santa jump). SHIFT will make Santa run. ESC quits to Windows.
-
-3. [HOW TO PLAY] In order to run -- If you have a 64-bit Windows PC, the game can be run
+3. [INSTALLATION] In order to run -- If you have a 64-bit Windows PC, the game can be run
 by downloading "Santa1.zip", extracting the contents to a folder of 
 your choice, and running "Santa1.exe". For Mac/Linux users, 
 The game's latest source code file (see below) will need to be run using Python (latest version) with Pygame (latest version) installed. 
 Please see https://www.pygame.org/wiki/GettingStarted for help installing Pygame.
 Functionality has not yet been tested on Mac or Linux.
 
-4. [Known issues]
+4. [HOW TO PLAY]
+
+Santa has 3 lives. Lose one life, you start at the beginning of the dungeon. If
+you lose all of your lives, the game is over.  
+
+Use either the arrow keys, or W,A,S,D to move Santa (W, UP, or SPACE will make 
+Santa jump). RIGHT_SHIFT will make Santa run. ESC quits to Windows.
+
+5. [Known issues]
 
 -Level Design-
 Game needs more levels that are designed to work within the existing and new
@@ -47,6 +51,15 @@ is designed to avoid this. Will be corrected in a future update.
 
 Spike collision detection needs refinement. To be addressed in a future update.
 
+6.[FUTURE PLANS]
+
+Currently, there are no enemies for Santa to battle. In a future update, there
+will be an enemy feature, and Santa will have a way of defending himself against
+their attacks. Current ideas include throwing gifts out of his bag, jumping
+on their heads, or both.
+
+Animation, other than the sprite flipping for direction changes, is currently
+not implemented. This is planned for future updates.
  
 
 Release notes
